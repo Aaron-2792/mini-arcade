@@ -25,7 +25,7 @@ A custom-engineered take on the classic arcade game, completely built from scrat
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Aaron-2792/mini-arcade
 
     Navigate to the directory:
     Bash
