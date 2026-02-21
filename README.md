@@ -1,5 +1,3 @@
-Markdown
-
 # 🕹️ Aaron's Arcade
 
 A blazing-fast, modular web arcade built as a Single Page Application (SPA). This project serves as a sandbox for exploring game loop architecture, state management, and the HTML5 Canvas API within a modern React ecosystem.
